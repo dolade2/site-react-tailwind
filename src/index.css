@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: url("./assets/imgs/pexels-philippe-donn-1169754.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
